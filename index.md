@@ -56,8 +56,8 @@ Being an SFU student means you belong to a scholarly community where you will de
 | Jan 6       | M       | Syllabus  |
 |             | W       | Introduction to Probability |
 |             | F       | Bayes' Theorem & Total Probability |
-| Jan 13      | M       | Continuous Distributions |
-|             | W       | Discrete Distributions |
+| Jan 13      | M       | Discrete Distributions |
+|             | W       | Continuous Distributions |
 |             | F       | Moments |
 | Jan 20      | M       | Law of Total Var & Exp of Ratio |
 |             | W       | Simulating Random Numbers & Monte Carlo Integration |
