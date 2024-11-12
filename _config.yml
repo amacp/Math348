@@ -1,0 +1,13 @@
+title: Math468
+email: ailenem@sfu.ca
+
+minima:
+  date_format: "%b %-d, %Y"
+
+# generate social links in footer
+social_links:
+  #github:  jekyll
+
+#Build settings
+markdown: GFM
+theme: minima
