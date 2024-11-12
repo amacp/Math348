@@ -1,6 +1,5 @@
 ---
-title: "Browser Tab Title"
-display_title: "Displayed Page Title"
+title: "Stochastic Modelling and Simulation"
 ---
 **Spring 2025--Simon Fraser University**
 
