@@ -1,5 +1,6 @@
 ---
-title: Stochastic Processes and Simulation (in Population Biology)
+title: "Browser Tab Title"
+display_title: "Displayed Page Title"
 ---
 **Spring 2025--Simon Fraser University**
 
