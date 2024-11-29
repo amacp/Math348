@@ -41,7 +41,22 @@ Project will involve developing and analyzing a stochastic or simulation-based m
 
 ### Homework Assignments
 
-Weekly homework assignments are due on Sunday at 11:59pm.  There will be 11 assignments with 3% each with the lowest score dropped for a total of 30% of the grade. Homework solutions should be returned in a single typset pdf file.  I recommend using either 1) Latex (.tex file), 2) Markdown (.md file), or 3) a python mardkown file.  To recieve full credit you must show your work.  Please name your file in the following manner `[Assignment#]_[name]_[student ID].pdf` (e.g., `Assignment1_JuanDoe_12345678.pdf`). If you use chatGPT or other AI chat engine to complete your assignment, please include the corresponding chat log as an appendix to your pdf.
+Weekly homework assignments are due on **Sunday at 11:59pm**.  There will be a 25% late penalty for every non-excused day late.
+
+There will be 11 assignments with 3% each with the lowest score dropped for a total of 30% of the grade. Homework solutions should be returned in a single typset pdf file.  I recommend using either 1) Latex (.tex file), 2) Markdown (.md file), or 3) a python mardkown file.  To recieve full credit you must show your work.  Please name your file in the following manner `[Assignment#]_[name]_[student ID].pdf` (e.g., `Assignment1_JuanDoe_12345678.pdf`). If you use chatGPT or other AI chat engine to complete your assignment, please include the corresponding chat log as an appendix to your pdf.
+
+### Final Project
+
+The final project is due on **Sunday April 6th at 11:49pm**. The final project is ithe form of a report and supplementary files (e.g., python code)  
+- Report should be 3-4 pgs not including supplementary code
+- Include a supplementary python code file
+- Report should contain a minimum of 2 figures. Figures can be multi-panel.  Figures can include plots, conceptual diagrams, or other graphical representations of the results. All plots should include axes labels where approriate, legends, captions (include figure title). 
+- Report should have the following sections:
+  - Introduction
+  - Data
+  - Model(s)
+  - Model Analysis/Results
+  - Conclusion
 
 ## Diversity and Inclusion Statement
 
