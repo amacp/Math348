@@ -39,6 +39,10 @@ Project will involve developing and analyzing a stochastic or simulation-based m
 
 †chatGPT will not be available for use during in class exams.  Please keep this in mind when self-assessing your understanding of core course concepts in the homework assignments.
 
+### Homework Assignments
+
+Weekly homework assignments are due on Sunday at 11:59pm.  There will be 11 assignments with 3% each with the lowest score dropped for a total of 30% of the grade. Homework solutions should be returned in a single typset pdf file.  I recommend using either 1) Latex (.tex file), 2) Markdown (.md file), or 3) a python mardkown file.  To recieve full credit you must show your work.  Please name your file in the following manner `[Assignment#]_[name]_[student ID].pdf` (e.g., `Assignment1_JuanDoe_12345678.pdf`). If you use chatGPT or other AI chat engine to complete your assignment, please include the corresponding chat log as an appendix to your pdf.
+
 ## Diversity and Inclusion Statement
 
 In this course you will treat others and be treated with respect. We welcome individuals of all ages, backgrounds, beliefs, ethnicities, genders, orientations, national origins, abilities, and other visible and non-visible differences. All members of this course are expected to contribute respectfully and in return each contribution will be appreciated and treated with respect.
