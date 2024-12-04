@@ -93,10 +93,14 @@ Being an SFU student means you belong to a scholarly community where you will de
 | Mar 10      | M       | Simulating Mutations on Trees |
 |             | W       | The Yule Process |
 |             | F       | Birth Death Sampling Models |
-| Mar 24      | M       | Brownian Motion |
-|             | W       | Auto-correlated Processes |
-|             | F       | Object Oriented Programming |
-| Mar 31      | M       | Individual-Based Simulations |
-|             | W       | Cellular Automata |
+| Mar 17      | M       | Brownian Motion |
+|             | W       | BM and OU on Trees |
+|             | F       | Auto-correlated Processes|
+| Mar 24      | M       | Likelihood Inference|
+|             | W       | Bayesian Inference |
+|             | F       |Individual-Based Simulations|
+| Mar 31      | M       | Object Oriented Programming|
+|             | W       |  Cellular Automata |
 |             | F       | *Review* |
+
 | **Final**   | TBD     | TBD |
