@@ -101,6 +101,6 @@ Being an SFU student means you belong to a scholarly community where you will de
 |             | F       | Individual-Based Simulations|
 | Mar 31      | M       | Object Oriented Programming|
 |             | W       | Cellular Automata |
-|             | F       | ABC *Review* |
+|             | F       | ABC \& *Review* |
 
 | **Final**   | TBD     | TBD |
