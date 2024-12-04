@@ -98,9 +98,9 @@ Being an SFU student means you belong to a scholarly community where you will de
 |             | F       | Auto-correlated Processes|
 | Mar 24      | M       | Likelihood Inference|
 |             | W       | Bayesian Inference |
-|             | F       |Individual-Based Simulations|
+|             | F       | Individual-Based Simulations|
 | Mar 31      | M       | Object Oriented Programming|
-|             | W       |  Cellular Automata |
-|             | F       | *Review* |
+|             | W       | Cellular Automata |
+|             | F       | ABC *Review* |
 
 | **Final**   | TBD     | TBD |
